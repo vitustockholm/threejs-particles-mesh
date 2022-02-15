@@ -1,4 +1,10 @@
+deployed on Netlify service: 
+
+https://threejs-particles-design.netlify.app/
+
+**************************
 ![THREEJSparticles](https://github.com/vitustockholm/threejs-particles-mesh/blob/main/Screenshot%20(5425).png "THREEJSparticles")
+**************************
 
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
