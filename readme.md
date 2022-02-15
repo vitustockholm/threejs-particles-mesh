@@ -1,4 +1,4 @@
-![THREEJSparticles](/Screenshot (5425).png?raw=true "THREEJSparticles")
+![THREEJSparticles](./Screenshot (5425).png?raw=true "THREEJSparticles")
 
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
