@@ -1,4 +1,3 @@
-![Alt text](/sc.png?raw=true "THREEJSparticles")
 
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
