@@ -1,4 +1,4 @@
-![THREEJSparticles](./Screenshot(5425).png?raw=true "THREEJSparticles")
+![THREEJSparticles](https://github.com/vitustockholm/threejs-particles-mesh/blob/main/Screenshot%20(5425).png "THREEJSparticles")
 
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
